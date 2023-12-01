@@ -1,4 +1,8 @@
 # Downloaded data directories
 chf2db/
 nsr2db/
+chfdb/
+nsrdb/
 
+
+.ipynb_checkpoints/
